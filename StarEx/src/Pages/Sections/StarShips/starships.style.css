@@ -1,0 +1,11 @@
+.StarShips{
+  display: flex;
+  align-items: flex-start;
+}.ShipsTable {
+  min-height: 50vh;
+}.LoadShips{
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow: hidden;
+}
+.ListName{
+    color: #fff;
+}
+.LoginBtn{
+    color: #fff;
+}
+header{
+    margin: 10px 0px;
+}
+.Home{
+    width: 100vw;
+    height: 100vh;
+    background-color: #000000b2;
+    padding: 0px 50px;
+    overflow-y: auto;
+    background-image:url("https://www.nerdsite.com.br/wp-content/uploads/2022/05/INTERSTELLAR-10.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

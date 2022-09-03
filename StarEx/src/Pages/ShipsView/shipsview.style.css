@@ -1,0 +1,15 @@
+.StarShipsVw {
+  background-color: #000000b2;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.AtrList > li {
+  background-color: #0000002a;
+  color: #fff;
+  font-family: "Times New Roman", Times, serif;
+  font-size: larger;
+}
